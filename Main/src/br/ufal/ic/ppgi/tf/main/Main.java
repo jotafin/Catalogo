@@ -5,7 +5,7 @@ import br.ufal.aracomp.cosmos.emprestimo.spec.dt.UsuarioDT;
 import br.ufal.aracomp.cosmos.emprestimo.spec.prov.IEmprestimoOps;
 import br.ufal.aracomp.cosmos.emprestimo.spec.prov.IManager;
 import br.ufal.aracomp.cosmos.limite.spec.prov.ILimiteOps;
-import br.ufal.ic.ppgi.tf.conectorSimples.ConectorSimples;
+import br.ufal.ic.ppgi.tf1.conectorSimples.*;
 
 public class Main {
 	public static void main(String[] args) {

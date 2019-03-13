@@ -1,4 +1,4 @@
-package br.ufal.ic.ppgi.tf.conectorSimples;
+package br.ufal.ic.ppgi.tf1.conectorSimples;
 
 import br.ufal.aracomp.cosmos.emprestimo.spec.dt.UsuarioDT;
 import br.ufal.aracomp.cosmos.emprestimo.spec.req.ILimiteReq;
