@@ -1,4 +1,4 @@
-package br.ufal.ic.ppgi.cosmos.catalogops.prov;
+package br.ufal.ic.ppgi.cosmos.catalogops.spec.prov;
 
 import java.util.Set;
 
