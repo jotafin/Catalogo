@@ -1,5 +1,5 @@
 package br.ufal.ic.ppgi.cosmos.catalogops.spec.prov;
-
+ 
 import java.util.List;
 
 import br.ufal.ic.ppgi.cosmos.catalogops.spec.dt.PatternDT;
