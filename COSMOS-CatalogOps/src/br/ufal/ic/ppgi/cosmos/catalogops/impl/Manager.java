@@ -15,6 +15,13 @@ class Manager implements IManager {
 			this.requiredInterfaces = new HashMap<>();
 			//add interfaces
 			this.providedInterfaces.put("ICatalogOps", new FacadeCatalogOps(this));
+			this.providedInterfaces.put("IPatternsOps", new FacadePatternsOps(this));
+			this.providedInterfaces.put("IAntipatternsOps", new FacadeAntipatternsOps(this));
+			this.providedInterfaces.put("ICRUDCatalogOps", new FacadeCRUDCatalogOps(this));
+			
+			this.requiredInterfaces.put("ICatalogBusinessReq",null);
+			this.requiredInterfaces.put("ICatalogSystemReq",null);
+					
 		}
 	
 	@Override

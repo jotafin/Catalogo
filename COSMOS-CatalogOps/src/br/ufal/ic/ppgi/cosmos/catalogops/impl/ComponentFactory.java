@@ -1,6 +1,5 @@
 package br.ufal.ic.ppgi.cosmos.catalogops.impl;
 
-import br.ufal.ic.ppgi.cosmos.catalogops.impl.Manager;
 import br.ufal.ic.ppgi.cosmos.catalogops.spec.prov.IManager;
 
 public class ComponentFactory {
